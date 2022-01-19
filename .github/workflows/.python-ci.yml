@@ -21,3 +21,4 @@ jobs:
     - name: Test with nose
       run: |
         pipenv run nosetests
+
